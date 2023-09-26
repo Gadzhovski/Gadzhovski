@@ -22,7 +22,6 @@
 - Email: [gadzhovski9@gmail.com](mailto:gadzhovski9@gmail.com)
 - LinkedIn https://www.linkedin.com/in/radoslav-gadzhovski/
 
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/gadzhovski.png)
 
 📈 **GitHub Stats**
 
