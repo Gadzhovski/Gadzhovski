@@ -1,12 +1,9 @@
 # 👋 Hello, I'm Radoslav Gadzhovski!
 
-🛡️ **Passionate about Cybersecurity**
-- Ethical Hacking
-- Network Security
-- Digital Forensics
-  
+
 🔭 **Professional Interests**
 - CyberSecurity
+- Digital Forensics
 - Networking
 - Linux Systems
 - Programming
