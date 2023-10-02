@@ -16,7 +16,6 @@
 - Advanced Penetration Testing Techniques
 
 📫 **Get in Touch**
-- Email: [gadzhovski9@gmail.com](mailto:gadzhovski9@gmail.com)
 - LinkedIn https://www.linkedin.com/in/radoslav-gadzhovski/
 
 
